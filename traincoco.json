@@ -63,37 +63,37 @@
     ],
     "categories": [
         {
-            "supercategory": "Seal",
+            "supercategory": "None",
             "id": 0,
             "name": "None"
         },
         {
-            "supercategory": "None",
+            "supercategory": "Seal",
             "id": 1,
             "name": "adult_female"
         },
         {
-            "supercategory": "None",
+            "supercategory": "Seal",
             "id": 2,
             "name": "adult_male"
         },
         {
-            "supercategory": "None",
+            "supercategory": "Seal",
             "id": 3,
             "name": "error"
         },
         {
-            "supercategory": "None",
+            "supercategory": "Seal",
             "id": 4,
             "name": "juvenile"
         },
         {
-            "supercategory": "None",
+            "supercategory": "Seal",
             "id": 5,
             "name": "pup"
         },
         {
-            "supercategory": "None",
+            "supercategory": "Seal",
             "id": 6,
             "name": "subadult_male"
         }
